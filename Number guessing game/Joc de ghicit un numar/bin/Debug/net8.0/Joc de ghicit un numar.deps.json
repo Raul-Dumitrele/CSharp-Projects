@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Joc de ghicit un numar/1.0.0": {
+        "runtime": {
+          "Joc de ghicit un numar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Joc de ghicit un numar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

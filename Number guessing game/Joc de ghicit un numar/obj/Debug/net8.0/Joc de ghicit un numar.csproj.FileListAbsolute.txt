@@ -1,0 +1,14 @@
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.AssemblyInfoInputs.cache
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.AssemblyInfo.cs
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.csproj.CoreCompileInputs.cache
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\bin\Debug\net8.0\Joc de ghicit un numar.exe
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\bin\Debug\net8.0\Joc de ghicit un numar.deps.json
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\bin\Debug\net8.0\Joc de ghicit un numar.runtimeconfig.json
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\bin\Debug\net8.0\Joc de ghicit un numar.dll
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\bin\Debug\net8.0\Joc de ghicit un numar.pdb
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.dll
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\refint\Joc de ghicit un numar.dll
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.pdb
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\Joc de ghicit un numar.genruntimeconfig.cache
+C:\Users\Dumitrele George\RiderProjects\Joc de ghicit un numar\Joc de ghicit un numar\obj\Debug\net8.0\ref\Joc de ghicit un numar.dll

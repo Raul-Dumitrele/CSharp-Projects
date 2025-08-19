@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joc de ghicit un numar", "Joc de ghicit un numar\Joc de ghicit un numar.csproj", "{975087B2-7CE5-45F7-86B8-B90CB1BDA49F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{975087B2-7CE5-45F7-86B8-B90CB1BDA49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975087B2-7CE5-45F7-86B8-B90CB1BDA49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975087B2-7CE5-45F7-86B8-B90CB1BDA49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975087B2-7CE5-45F7-86B8-B90CB1BDA49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
